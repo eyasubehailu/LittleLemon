@@ -1,0 +1,3 @@
+'restaurant/booking/'
+'auth/'
+'restaurant/'
